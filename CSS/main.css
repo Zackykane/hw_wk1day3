@@ -1,0 +1,14 @@
+.col-center {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; 
+    height: 10vh; 
+
+.col-center img {
+    max-width: 300px;
+
+
+.card {
+    width: 350px;
+    height: 600px;
+}
