@@ -1,11 +1,14 @@
 .col-center {
     display: flex;
     justify-content: center;
-    align-items: flex-start; 
-    height: 10vh; 
+    align-items: flex-start; /* This aligns the image to the top */
+    height: 100vh; 
+}
 
 .col-center img {
-    max-width: 300px;
+    max-width: 300px; 
+    width: 100%; 
+}
 
 
 .card {
