@@ -1,1 +1,1 @@
-Make sure to read the terms and conditons
+Make sure to read the "conditons of use"
