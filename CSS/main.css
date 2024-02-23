@@ -1,17 +1,29 @@
-.col-center {
+.btn-style{
+    width: 100% ;
+    border-radius: 5px;
+}
+
+.btn-style.btn-style1{
+    margin-top: 10%;
+    width: 100% ;
+    border-radius: 5px;
+    background-color: rgb(252, 180, 73);
+}
+
+.container img{
     display: flex;
-    justify-content: center;
-    align-items: flex-start; /* This aligns the image to the top */
-    height: 100vh; 
+    justify-content: center; 
+    align-items: center;
+    width: 50%;
+    padding-bottom: 1.2%;
 }
 
-.col-center img {
-    max-width: 300px; 
-    width: 100%; 
+.col-5{
+    display:flex ;
+    justify-content:center ; 
+    align-items:center ;
 }
 
 
-.card {
-    width: 350px;
-    height: 600px;
-}
+
+  
